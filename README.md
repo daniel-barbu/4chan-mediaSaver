@@ -4,7 +4,7 @@ You can then use the links list to download the media using [Tab Save](https://c
 
 ### How to use
 1. The overlay is made for 4chan threads, so make sure you are on one.
-2. Open [`code.js`](https://raw.githubusercontent.com/daniel-barbu/4chan-mediaSaver/master/code.js) and copy-paste the code to the console of the previously opened webpage.
+2. Open [`script.js`](https://raw.githubusercontent.com/daniel-barbu/4chan-mediaSaver/main/script.js) and copy-paste the code to the console of the previously opened webpage.
 
 ### Known Issues
 1. You have to copy-paste the code to the console eveytime you want to play.  t
